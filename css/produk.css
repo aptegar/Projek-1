@@ -1,0 +1,25 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    margin-top:10px;
+    background-color: transparent;
+}
+.nav-item a{
+    color: rgb(250, 162, 0);
+}
+.nav-item a:hover{
+    color: rgb(8, 9, 9);
+}
+/*
+
+/* contact */
+
+.list-group .list-group-item{
+    background-color: transparent;
+    color: white;
+    border-radius: 0px ;
+}
+.list-group .list-group-item:hover{
+    color: orange;
+}
